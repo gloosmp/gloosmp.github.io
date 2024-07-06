@@ -1,0 +1,14 @@
+name: TuBan
+description: ''
+open: false
+pvp: false
+home: ''
+color: e
+chests: []
+players:
+- d597980c-8763-32bc-9670-6f8121436264,OWNER
+- 3135e1ba-255a-3bc2-b0a3-a873fe17e04c,DEFAULT
+- 6002ea6f-10fd-33c3-9375-fdbf1f67d9bc,DEFAULT
+level: 1
+tag: ''
+score: 0

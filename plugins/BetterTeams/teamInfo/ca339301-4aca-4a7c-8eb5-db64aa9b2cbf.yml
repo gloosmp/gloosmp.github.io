@@ -1,0 +1,170 @@
+name: Crystal
+description: ''
+open: false
+pvp: false
+home: world:-3580.5:64.0:-767.5:0.59999925:1.95
+color: d
+chests:
+- world:-122.0:111.0:177.0:0.0:0.0
+- world:-131.0:111.0:199.0:0.0:0.0
+players:
+- 7da49b08-1dbc-38e1-a55c-033ff797cc9e,OWNER
+- 976fdecc-f3c6-3267-9bd8-a2ba48cf28f0,DEFAULT
+- a0ff7d78-0d6d-3b50-a2f5-56e16cafa917,DEFAULT
+- 9089fa9a-44fb-3c1e-b41c-32b061548b4e,DEFAULT
+- 5377fe63-e963-3e81-a0cc-116d124eb8c3,DEFAULT
+- 0f63054e-6217-34f2-ad7c-3397bcae41a3,DEFAULT
+- aac9314d-a84f-3328-8cdf-d0b18300b911,DEFAULT
+level: 1
+tag: ''
+score: 9
+echest:
+  '0':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '1':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '3':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '4':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:mending: 1
+  '5':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '6':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '7':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '8':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '9':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:mending: 1
+  '10':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:mending: 1
+  '11':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:mending: 1
+  '12':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '13':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      custom: H4sIAAAAAAAA/+NiYOBkEAouyS9KTXHNS85IzCvJTc0rKeZiYGBg5GBgykxhYAcKpGTmpTMxMOeU5TAwMjAAAMPmhAU1AAAA
+      stored-enchants:
+        minecraft:mending: 1
+  '14':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:soul_speed: 2
+  '15':
+    ==: org.bukkit.inventory.ItemStack
+    v: 3953
+    type: ENCHANTED_BOOK
+    meta:
+      ==: ItemMeta
+      meta-type: ENCHANTED
+      stored-enchants:
+        minecraft:soul_speed: 2
+warps:
+- end;world_the_end:8.203024331920108:62.0:0.19055023498793394:88.20525:1.5701722
+- trusochinh;world_the_end:21.429460070969686:41.0:274.0604617508108:-122.51844:11.627279
+- spawn;world:4.639911847626627:68.0:42.41025403450956:-178.03964:1.8001505
+- bang;world:3087.812470665477:63.0:19681.962508777196:175.10913:0.6001488
